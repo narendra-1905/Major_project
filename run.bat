@@ -1,0 +1,2 @@
+python UAVOffloading.py
+pause
